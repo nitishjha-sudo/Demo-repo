@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  vmImage: local
+  vmImage: Default
 
 steps:
 - script: echo Hello, world!
